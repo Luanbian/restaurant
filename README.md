@@ -18,3 +18,5 @@ Com o desenvolvimento deste projeto aprendi:
 - [x] Bootstrap
 - [x] Jquery
 - [x] Responsividade
+
+# Veja o site clicando [aqui](https://luanbian.github.io/restaurant/)
